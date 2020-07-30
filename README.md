@@ -19,4 +19,13 @@ This package provides an implementation of the prediction and analysis of respir
 
 ### Data
 
+**Encounter Table**
+pat_enc_csn_id | pat_laber
+------------ | -------------
+Patient encounter ID  | Patient discharge status
 
+
+**Encounter Detail Table**
+pat_enc_csn_id | component_name | z_score_ord_num_value | hours_since_admitted | label | ind_kt | length_of_stay
+------------ | ------------- | ------------ | ------------ | ------------ | ------------ | ------------
+Patient encounter ID  | Physiological Variables or Laboratory Variables | Z score value | Hours since admitte | Patient discharge status | Dense ranking on Hours since admitte | Length of the stay
