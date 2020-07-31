@@ -6,6 +6,7 @@ This package provides an implementation of the prediction and analysis of respir
 **Dependencies**
 * Python                    3.7
 * numpy                     1.18.1
+* tensorflow                2.2.0
 * tensorboard               2.2.2
 * pandas                    0.23.0
 * pyodbc                    4.0.30
