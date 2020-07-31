@@ -1,0 +1,2 @@
+model_checkpoint_path: "EWS_model"
+all_model_checkpoint_paths: "EWS_model"
