@@ -42,7 +42,7 @@ Patient encounter ID  | Physiological Variables or Laboratory Variables | Z scor
 * ABSOLUTE LYMPH CT
 * R LH SEPSIS WATCH SCORE
 * LD
-* age
+* AGE
 * POTASSIUM
 * CREATININE
 * ANION GAP
