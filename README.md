@@ -67,7 +67,9 @@ Patient encounter ID  | Physiological Variables or Laboratory Variables | Z scor
 Please see Notebook Mortality_prediction.ipynb
 
 ### Prediction
+Using falcon to define RESTful services that use Tensorflow models.
 
+we have trained to try to predict patient outcomes.
 
 ### Disclaimer
 This tool is for research purpose and not approved for clinical use.
