@@ -64,9 +64,10 @@ Patient encounter ID  | Physiological Variables or Laboratory Variables | Z scor
 * MCHC
 
 ### Evaluation
-Please see Notebook 
+Please see Notebook Mortality_prediction.ipynb
 
 ### Prediction
+
 
 ### Disclaimer
 This tool is for research purpose and not approved for clinical use.
