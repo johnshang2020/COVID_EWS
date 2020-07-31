@@ -29,3 +29,44 @@ Patient encounter ID  | Patient discharge status
 pat_enc_csn_id | component_name | z_score_ord_num_value | hours_since_admitted | label | ind_kt | length_of_stay
 ------------ | ------------- | ------------ | ------------ | ------------ | ------------ | ------------
 Patient encounter ID  | Physiological Variables or Laboratory Variables | Z score value | Hours since admitte | Patient discharge status | Dense ranking on Hours since admitte | Length of the stay
+
+**List of features (component_name) that were used in the model**
+* RESPIRATIONS
+* TEMPERATURE
+* MAP
+* PULSE
+* P/F RATIO
+* BMI
+* C-REACTIVE PROTEIN
+* FERRITIN
+* ABSOLUTE LYMPH CT
+* R LH SEPSIS WATCH SCORE
+* LD
+* age
+* POTASSIUM
+* CREATININE
+* ANION GAP
+* HEMATOCRIT
+* WBC
+* PLATELET_COUNT
+* POLYS
+* ABSOLUTE_GRAN_CT
+* LYMPHOCYTE
+* MONOCYTE
+* EOSINOPHIL
+* BASOPHIL
+* ABSOLUTE MONO CT
+* ABSOLUTE EOS CT
+* ABSOLUTE BASO CT
+* ALBUMIN
+* AST SGOT
+* GFR NON AFRICAN-AMER (CKD-EPI)
+* MCHC
+
+### Evaluation
+Please see Notebook 
+
+### Prediction
+
+### Disclaimer
+This tool is for research purpose and not approved for clinical use.
