@@ -66,6 +66,7 @@ Patient encounter ID  | Physiological Variables or Laboratory Variables | Z scor
 ### Utility function
 
 Estimates the pf_ratio from  pulse oximetry data and fio2.
+
 Parameters: sao2 measured by pulse oximetry; typical values are in the 80 to 100 range. 
 fio2: the fraction of oxygen in inspired air. In devices such as ventilators, this is set by the  therapists. For devices like nasal cannulas, the commonest device, we have to estimate the fio2
   
